@@ -13,6 +13,8 @@ A modern e-commerce web application built with PHP and Bootstrap 5.
 2. **Start PHP Server**
    ```bash
    php -S localhost:8080
+   OR 
+   ./start.sh
    ```
 
 3. **Access the Application**
