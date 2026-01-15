@@ -64,34 +64,6 @@ CyberHunt/
 └── *.php               # Main application pages
 ```
 
-## Pages
-
-1. Home (`index.php`)
-2. Login (`login.php`)
-3. Register (`register.php`)
-4. Products (`products.php`)
-5. Product Detail (`product.php`)
-6. Search (`search.php`)
-7. Cart (`cart.php`)
-8. Checkout (`checkout.php`)
-9. Profile (`profile.php`)
-10. Edit Profile (`edit-profile.php`)
-11. Orders (`orders.php`)
-12. Order Detail (`order.php`)
-13. Messages (`messages.php`)
-14. Settings (`settings.php`)
-15. Contact (`contact.php`)
-16. About (`about.php`)
-17. Help (`help.php`)
-18. FAQ (`faq.php`)
-19. Terms (`terms.php`)
-20. Privacy (`privacy.php`)
-21. Shipping (`shipping.php`)
-22. Returns (`returns.php`)
-23. Export (`export.php`)
-24. Admin Dashboard (`admin/index.php`)
-25. Admin Users (`admin/users.php`)
-
 ## Coupon Codes
 
 | Code | Discount |
