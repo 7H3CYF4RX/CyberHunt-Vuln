@@ -1,0 +1,269 @@
+# Dirsearch started Thu Jan 15 15:18:41 2026 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://localhost:8080/
+
+200    23KB  http://localhost:8080/about.php
+302     0B   http://localhost:8080/admin    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/%3bindex/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/.config    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/_logs/access-log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/.htaccess    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/_logs/access.log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/_logs/access_log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/_logs/err.log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/_logs/error-log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/_logs/error.log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/_logs/error_log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/access.log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/_logs/login.txt    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/account    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/access.txt    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/access_log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/account.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/account.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/account.jsp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/account.html    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/account.js    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin-login    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin-login.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin-login.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin-login.jsp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin-login.html    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin-login.js    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin.jsp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin.html    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin.js    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin/login    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin_login    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin_login.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin_login.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin_login.js    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin_login.jsp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/adminLogin.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/adminLogin.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/adminLogin    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/adminer.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/admin_login.html    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/adminLogin.html    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/adminLogin.jsp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/adminLogin.js    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/backup/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/backups/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/config.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/controlpanel    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/controlpanel.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/controlpanel.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/controlpanel.jsp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/controlpanel.html    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/controlpanel.js    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/cp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/cp.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/cp.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/cp.jsp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/cp.html    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/cp.js    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/default    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/data/autosuggest    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/db/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/default.asp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/dumper/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/download.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/default/admin.asp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/default/login.asp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/error.txt    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/error_log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/errors.log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/error.log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/export.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/FCKeditor    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/fckeditor/editor/filemanager/connectors/asp/connector.asp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/fckeditor/editor/filemanager/connectors/asp/upload.asp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/fckeditor/editor/filemanager/connectors/aspx/connector.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/fckeditor/editor/filemanager/connectors/php/connector.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/fckeditor/editor/filemanager/connectors/aspx/upload.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/fckeditor/editor/filemanager/connectors/php/upload.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/fckeditor/editor/filemanager/upload/asp/upload.asp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/file.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/fckeditor/editor/filemanager/upload/php/upload.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/fckeditor/editor/filemanager/upload/aspx/upload.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/home    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/heapdump    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/files.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/home.jsp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/home.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/home.js    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/home.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/home.html    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/includes/configure.php~    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/index    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/index.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/index.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/index.html    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/index.jsp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/js/tiny_mce/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/index.js    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/js/tiny_mce    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/js/tinymce    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/js/tinymce/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/log/error.log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/login    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/login.aspx    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/login.jsp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/login.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/login.html    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/login.js    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/login.py    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/login.asp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/login.htm    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/login.rb    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/login.do    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/logon.jsp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/logs/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/logs/access-log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/logs/error-log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/logs/access_log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/logs/access.log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/logs/err.log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/logs/error_log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/logs/error.log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/logs/errors.log    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/logs/login.txt    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/manage    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/manage/admin.asp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/manage/login.asp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/manage.asp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/mysql/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/mysql/index.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/phpMyAdmin    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/phpMyAdmin/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/phpmyadmin/index.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/mysql2/index.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/phpmyadmin/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/phpMyAdmin/index.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/phpmyadmin2/index.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/pMA/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/pma/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/PMA/index.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/pol_log.txt    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/pma/index.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/signin    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/scripts/fckeditor    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/release    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/secure/logon.jsp    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/private/logs    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/portalcollect.php?f=http://xxx&t=js    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/sqladmin/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/sxd/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/sysadmin/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/tinymce    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/uploads.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/tiny_mce    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/upload.php    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/user_count.txt    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/web/    -> REDIRECTS TO: /login.php
+302     0B   http://localhost:8080/admin/views/ajax/autocomplete/user/a    -> REDIRECTS TO: /login.php
+200   359B   http://localhost:8080/api.php
+404   539B   http://localhost:8080/assets
+404   540B   http://localhost:8080/assets/
+404   549B   http://localhost:8080/assets/fckeditor
+404   544B   http://localhost:8080/assets/file
+404   553B   http://localhost:8080/assets/npm-debug.log
+404   552B   http://localhost:8080/assets/js/fckeditor
+404   552B   http://localhost:8080/assets/pubspec.yaml
+302     0B   http://localhost:8080/cart.php    -> REDIRECTS TO: /login.php
+404   539B   http://localhost:8080/config
+404   540B   http://localhost:8080/config/
+404   547B   http://localhost:8080/config/app.php
+404   547B   http://localhost:8080/config/apc.php
+404   554B   http://localhost:8080/config/AppData.config
+404   547B   http://localhost:8080/config/app.yml
+404   549B   http://localhost:8080/config/autoload/
+404   547B   http://localhost:8080/config/aws.yml
+404   556B   http://localhost:8080/config/banned_words.txt
+404   550B   http://localhost:8080/config/config.inc
+404   552B   http://localhost:8080/config/database.yml
+404   550B   http://localhost:8080/config/config.ini
+404   558B   http://localhost:8080/config/database.yml.pgsql
+404   560B   http://localhost:8080/config/database.yml.sqlite3
+404   553B   http://localhost:8080/config/database.yml~
+404   553B   http://localhost:8080/config/databases.yml
+404   552B   http://localhost:8080/config/development/
+404   546B   http://localhost:8080/config/db.inc
+404   550B   http://localhost:8080/config/master.key
+404   568B   http://localhost:8080/config/initializers/secret_token.rb
+404   554B   http://localhost:8080/config/monkdonate.ini
+404   556B   http://localhost:8080/config/monkcheckout.ini
+404   550B   http://localhost:8080/config/monkid.ini
+404   552B   http://localhost:8080/config/producao.ini
+404   550B   http://localhost:8080/config/routes.yml
+404   552B   http://localhost:8080/config/settings.inc
+404   552B   http://localhost:8080/config/settings.ini
+404   556B   http://localhost:8080/config/settings.ini.cfm
+404   548B   http://localhost:8080/config/site.php
+404   563B   http://localhost:8080/config/settings/production.yml
+404   558B   http://localhost:8080/config/settings.local.yml
+404   544B   http://localhost:8080/config/xml/
+200    25KB  http://localhost:8080/contact.php
+404   541B   http://localhost:8080/database
+404   542B   http://localhost:8080/database/
+404   551B   http://localhost:8080/database/database/
+404   554B   http://localhost:8080/database/phpMyAdmin2/
+404   553B   http://localhost:8080/database/phpMyAdmin/
+404   554B   http://localhost:8080/database/phpmyadmin2/
+404   553B   http://localhost:8080/database/phpmyadmin/
+200     9KB  http://localhost:8080/export.php
+200    25KB  http://localhost:8080/faq.php
+404   541B   http://localhost:8080/includes
+404   542B   http://localhost:8080/includes/
+404   552B   http://localhost:8080/includes/adovbs.inc
+404   555B   http://localhost:8080/includes/bootstrap.inc
+404   556B   http://localhost:8080/includes/configure.php~
+404   617B   http://localhost:8080/includes/fckeditor/editor/filemanager/browser/default/connectors/aspx/connector.aspx
+404   615B   http://localhost:8080/includes/fckeditor/editor/filemanager/browser/default/connectors/asp/connector.asp
+404   599B   http://localhost:8080/includes/fckeditor/editor/filemanager/connectors/asp/connector.asp
+404   596B   http://localhost:8080/includes/fckeditor/editor/filemanager/connectors/asp/upload.asp
+404   615B   http://localhost:8080/includes/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php
+404   598B   http://localhost:8080/includes/fckeditor/editor/filemanager/connectors/aspx/upload.aspx
+404   601B   http://localhost:8080/includes/fckeditor/editor/filemanager/connectors/aspx/connector.aspx
+404   599B   http://localhost:8080/includes/fckeditor/editor/filemanager/connectors/php/connector.php
+404   596B   http://localhost:8080/includes/fckeditor/editor/filemanager/connectors/php/upload.php
+404   592B   http://localhost:8080/includes/fckeditor/editor/filemanager/upload/asp/upload.asp
+404   594B   http://localhost:8080/includes/fckeditor/editor/filemanager/upload/aspx/upload.aspx
+404   553B   http://localhost:8080/includes/js/tiny_mce
+404   592B   http://localhost:8080/includes/fckeditor/editor/filemanager/upload/php/upload.php
+404   550B   http://localhost:8080/includes/tiny_mce
+404   568B   http://localhost:8080/includes/swfupload/swfupload_f9.swf
+404   565B   http://localhost:8080/includes/swfupload/swfupload.swf
+404   554B   http://localhost:8080/includes/js/tiny_mce/
+404   549B   http://localhost:8080/includes/tinymce
+404   551B   http://localhost:8080/includes/tiny_mce/
+404   550B   http://localhost:8080/includes/tinymce/
+200     3KB  http://localhost:8080/login.php
+302     0B   http://localhost:8080/logout.php    -> REDIRECTS TO: /login.php
+200     9KB  http://localhost:8080/order.php
+200     9KB  http://localhost:8080/orders.php
+200    21KB  http://localhost:8080/privacy.php
+302     0B   http://localhost:8080/product.php    -> REDIRECTS TO: /products.php
+200    43KB  http://localhost:8080/product
+200   145KB  http://localhost:8080/products.php
+200     9KB  http://localhost:8080/profile.php
+200    43KB  http://localhost:8080/profile.aspx
+200     3KB  http://localhost:8080/README.md
+200     4KB  http://localhost:8080/register.php
+404   540B   http://localhost:8080/reports
+404   551B   http://localhost:8080/reports/Webalizer/
+200    66KB  http://localhost:8080/search.php
+302     0B   http://localhost:8080/settings.php    -> REDIRECTS TO: /login.php
+200    21KB  http://localhost:8080/shipping.php
+200     3KB  http://localhost:8080/start.sh
+404   541B   http://localhost:8080/uploads/
+404   540B   http://localhost:8080/uploads
+404   549B   http://localhost:8080/uploads/dump.sql
+404   556B   http://localhost:8080/uploads/affwp-debug.log
+200     9KB  http://localhost:8080/wishlist.php
