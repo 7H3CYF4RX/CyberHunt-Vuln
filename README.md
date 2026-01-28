@@ -66,7 +66,7 @@ Password: anything
 
 ## 🔥 Vulnerabilities Included
 
-### OWASP Top 10 Coverage
+### Coverage
 
 | # | Vulnerability | Location |
 |---|---------------|----------|
