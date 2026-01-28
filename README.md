@@ -137,12 +137,6 @@ CyberHunt/
 
 ---
 
-## 📚 Documentation
-
-- **[VULNERABILITIES.md](VULNERABILITIES.md)** - Detailed vulnerability documentation with payloads
-
----
-
 ## 🛠️ Technology Stack
 
 - **Backend:** PHP 8.x (no framework)
