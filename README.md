@@ -37,21 +37,6 @@ php -S localhost:8080 router.php
 
 ---
 
-## 🔐 Test Credentials
-
-| Username | Password | Role |
-|----------|----------|------|
-| `admin` | `admin123` | Admin |
-| `testuser` | `password123` | User |
-
-**SQL Injection Login Bypass:**
-```
-Username: admin' --
-Password: anything
-```
-
----
-
 ## 🎟️ Coupon Codes
 
 | Code | Discount | Notes |
@@ -81,21 +66,6 @@ Password: anything
 | 9 | **Sensitive Data Exposure** | API, Comments |
 | 10 | **Business Logic** | Coupon stacking |
 
-### Quick Test Commands
-
-```bash
-# Path Traversal
-curl "http://localhost:8080/api.php?action=file&name=../../../etc/passwd"
-
-# SSRF
-curl "http://localhost:8080/api.php?action=fetch&url=file:///etc/passwd"
-
-# User Enumeration
-curl "http://localhost:8080/api.php?action=users&limit=10"
-
-# XSS (filter bypass)
-http://localhost:8080/search.php?q=<img src=x onerror=alert(1)>
-```
 
 ---
 
@@ -119,23 +89,6 @@ CyberHunt/
 └── *.php               # Application pages
 ```
 
----
-
-## 🔍 Discovery Points
-
-### Hidden in Source Code (View Page Source)
-- API endpoints listed in HTML comments on homepage
-- Developer notes with sensitive info
-
-### robots.txt & sitemap.xml
-- Exposed admin paths
-- Backup file locations
-
-### Error Messages
-- SQL errors reveal query structure
-- Stack traces expose file paths
-
----
 
 ## 🛠️ Technology Stack
 
