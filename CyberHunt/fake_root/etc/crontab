@@ -1,0 +1,19 @@
+# /etc/crontab: system-wide crontab
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+# m h dom mon dow user  command
+17 *    * * *   root    cd / && run-parts --report /etc/cron.hourly
+25 6    * * *   root    test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )
+47 6    * * 7   root    test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.weekly )
+52 6    1 * *   root    test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.monthly )
+
+# Application backups
+0  2    * * *   root    /opt/scripts/backup.sh >> /var/log/backup.log 2>&1
+0  3    * * *   root    /opt/scripts/db-backup.sh -u cyberhunt_admin -p 'Pr0d_S3cr3t_P@ssw0rd!2024' >> /var/log/db-backup.log 2>&1
+
+# Cleanup old sessions
+*/15 *  * * *   www-data php /var/www/cyberhunt/artisan session:gc
+
+# Generate reports
+0  6    * * 1   admin   /opt/scripts/weekly-report.sh --email admin@cyberhunt.local

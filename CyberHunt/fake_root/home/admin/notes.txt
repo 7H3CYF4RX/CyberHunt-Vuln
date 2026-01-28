@@ -1,0 +1,29 @@
+# CyberHunt Server - Admin Notes
+# Last updated: 2026-01-15
+
+## Server Access
+- SSH: ssh admin@cyberhunt-server -p 22
+- Password: Adm1n_SSH_2024!
+- Backup key location: /home/admin/.ssh/id_rsa
+
+## Database Access
+- Host: 10.0.0.5
+- User: cyberhunt_admin  
+- Pass: Pr0d_S3cr3t_P@ssw0rd!2024
+- Root: CyberHunt_MySQL_R00t!
+
+## AWS Console
+- URL: https://console.aws.amazon.com
+- IAM User: cyberhunt-deploy
+- Access Key: AKIAIOSFODNN7EXAMPLE
+- Secret: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
+## API Keys
+- Stripe Live: sk_live_51H2bKLJNdm7ExampleSecretKey
+- SendGrid: SG.xxxxxxxxxxxx.yyyyyyyyyyyyyyyyyyyy
+
+## TODO
+- [ ] Rotate all passwords (overdue by 6 months!)
+- [ ] Enable 2FA for all admin accounts
+- [ ] Update SSL certificates before March
+- [ ] Review firewall rules

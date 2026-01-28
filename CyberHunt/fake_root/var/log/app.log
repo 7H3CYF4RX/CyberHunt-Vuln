@@ -1,0 +1,17 @@
+[2026-01-27 10:15:32] INFO: Application started
+[2026-01-27 10:15:33] INFO: Database connection established to 10.0.0.5
+[2026-01-27 10:16:01] WARNING: Failed login attempt for user 'admin' from 192.168.1.50
+[2026-01-27 10:16:05] WARNING: Failed login attempt for user 'admin' from 192.168.1.50
+[2026-01-27 10:16:10] CRITICAL: Multiple failed login attempts detected - possible brute force
+[2026-01-27 10:17:22] INFO: User 'john.doe' logged in successfully from 10.0.0.100
+[2026-01-27 10:18:45] INFO: Order #12345 placed by user_id=42 total=$599.99
+[2026-01-27 10:19:30] DEBUG: SQL Query: SELECT * FROM users WHERE id = 42
+[2026-01-27 10:20:15] ERROR: Payment gateway timeout for order #12346
+[2026-01-27 10:21:00] INFO: Backup process started
+[2026-01-27 10:25:33] INFO: Backup completed - 2.3GB written to s3://cyberhunt-backups/
+[2026-01-27 10:30:00] WARNING: High memory usage detected: 85%
+[2026-01-27 10:35:22] INFO: Cache cleared by admin user
+[2026-01-27 10:40:15] ERROR: API rate limit exceeded for IP 45.33.32.156
+[2026-01-27 10:45:00] INFO: Scheduled task 'cleanup_sessions' completed
+[2026-01-27 10:50:30] DEBUG: Session created for user_id=108 session_id=abc123def456
+[2026-01-27 11:00:00] INFO: Daily report generated - 1,234 orders, $45,678.90 revenue

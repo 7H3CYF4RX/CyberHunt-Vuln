@@ -1,0 +1,11 @@
+Jan 27 10:15:30 cyberhunt-server sshd[1234]: Accepted publickey for admin from 10.0.0.1 port 52341
+Jan 27 10:16:01 cyberhunt-server sshd[1235]: Failed password for admin from 192.168.1.50 port 43210
+Jan 27 10:16:05 cyberhunt-server sshd[1236]: Failed password for admin from 192.168.1.50 port 43211
+Jan 27 10:16:10 cyberhunt-server sshd[1237]: Failed password for admin from 192.168.1.50 port 43212
+Jan 27 10:16:15 cyberhunt-server sshd[1238]: Failed password for root from 192.168.1.50 port 43213
+Jan 27 10:16:20 cyberhunt-server sshd[1239]: Invalid user hacker from 192.168.1.50 port 43214
+Jan 27 10:17:00 cyberhunt-server sshd[1240]: Accepted password for deploy from 10.0.0.100 port 52500
+Jan 27 10:20:15 cyberhunt-server sudo: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/cat /etc/shadow
+Jan 27 10:25:00 cyberhunt-server sshd[1241]: Disconnected from 10.0.0.1 port 52341
+Jan 27 10:30:22 cyberhunt-server sshd[1242]: Accepted publickey for backup from 192.168.1.100 port 60000
+Jan 27 10:35:45 cyberhunt-server kernel: [UFW BLOCK] IN=eth0 OUT= MAC=00:00:00:00:00:00 SRC=45.33.32.156 DST=10.0.0.5 PROTO=TCP DPT=3306

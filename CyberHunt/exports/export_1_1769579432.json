@@ -1,0 +1,57 @@
+{
+    "profile": {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@cyberhunt.local",
+        "password": "d54d1702ad0f8326224b817c796763c9",
+        "full_name": "System Administrator",
+        "phone": "+1-555-0100",
+        "address": "100 Admin Street",
+        "city": "New York",
+        "country": "United States",
+        "bio": "CyberHunt Platform Administrator",
+        "profile_pic": "default.jpg",
+        "role": "admin",
+        "balance": 99999.99,
+        "secret_question": "What is your favorite security tool?",
+        "secret_answer": "burpsuite",
+        "reset_token": null,
+        "reset_expiry": null,
+        "created_at": "2026-01-14 10:40:52",
+        "last_login": "2026-01-28 05:49:27",
+        "is_active": 1
+    },
+    "orders": [
+        {
+            "id": 53,
+            "user_id": 1,
+            "order_number": "ORD-2026-230640",
+            "total_amount": 269.9892,
+            "status": "pending",
+            "shipping_address": "100 Admin Street, New York, 10001",
+            "payment_method": "credit_card",
+            "created_at": "2026-01-14 11:23:51"
+        },
+        {
+            "id": 56,
+            "user_id": 1,
+            "order_number": "ORD-2026-523769",
+            "total_amount": 377.9892,
+            "status": "pending",
+            "shipping_address": "100 Admin Street, New York, 676503",
+            "payment_method": "bank_transfer",
+            "created_at": "2026-01-28 05:49:12"
+        }
+    ],
+    "reviews": [
+        {
+            "id": 80,
+            "user_id": 1,
+            "product_id": 21,
+            "rating": 3,
+            "title": "Very satisfied",
+            "comment": "I was skeptical at first but this product proved me wrong. It is now an essential part of my daily workflow.",
+            "created_at": "2026-01-14 10:40:52"
+        }
+    ]
+}

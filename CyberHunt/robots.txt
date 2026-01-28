@@ -1,0 +1,30 @@
+# CyberHunt robots.txt
+User-agent: *
+
+# Public pages
+Allow: /
+Allow: /products.php
+Allow: /about.php
+
+# Admin area
+Disallow: /admin/
+Disallow: /admin/users.php
+Disallow: /admin/products.php
+Disallow: /admin/orders.php
+
+# API endpoints
+Disallow: /api.php
+
+# Sensitive directories
+Disallow: /database/
+Disallow: /config/
+Disallow: /exports/
+Disallow: /uploads/
+Disallow: /backups/
+
+# Old files
+Disallow: /backup.sql
+Disallow: /database.sql
+Disallow: /.git/
+Disallow: /.env
+Disallow: /config.php.bak
