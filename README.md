@@ -26,6 +26,8 @@
 # Clone and navigate to directory
 cd CyberHunt
 
+IT'S RECOMMENDED TO USE CyberHunt.tar.gz
+
 # Initialize database
 sudo apt install php-sqlite3
 
