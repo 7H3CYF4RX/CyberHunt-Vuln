@@ -74,27 +74,6 @@ php -S localhost:8080 router.php
 
 ---
 
-## 📁 Directory Structure
-
-```
-CyberHunt/
-├── admin/              # Admin panel
-├── api.php             # Vulnerable API endpoint
-├── assets/             # CSS, JS, images
-├── config/             # Database configuration
-├── database/           # SQLite database
-├── exports/            # User data exports
-├── fake_root/          # Simulated filesystem for path traversal
-│   ├── etc/            # passwd, shadow, hosts
-│   ├── home/           # admin notes, SSH keys, .env
-│   └── var/log/        # auth.log, app.log
-├── includes/           # Header & footer
-├── router.php          # Request router with 404 handling
-├── start.sh            # Startup script
-└── *.php               # Application pages
-```
-
-
 ## 🛠️ Technology Stack
 
 - **Backend:** PHP 8.x (no framework)
