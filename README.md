@@ -50,7 +50,6 @@ php -S localhost:8080 router.php
 | `GRAND20` | 20% off | Shown in banner |
 | `FLAT50` | $50 off | Hidden |
 
-**Vulnerability:** Alternate between coupons to stack unlimited discounts!
 
 ---
 
