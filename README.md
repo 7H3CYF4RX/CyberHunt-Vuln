@@ -58,18 +58,18 @@ php -S localhost:8080 router.php
 
 ### Coverage
 
-| # | Vulnerability | Location |
-|---|---------------|----------|
-| 1 | **SQL Injection** | Login, Search, Products |
-| 2 | **XSS (Reflected)** | Search (filter bypass) |
-| 3 | **XSS (Stored)** | Reviews, Messages, Profile |
-| 4 | **Path Traversal** | API, Export |
-| 5 | **SSRF** | API fetch endpoint |
-| 6 | **IDOR** | User data, Orders |
-| 7 | **Command Injection** | Contact form |
-| 8 | **Broken Auth** | Weak hashing, Secret Q&A |
-| 9 | **Sensitive Data Exposure** | API, Comments |
-| 10 | **Business Logic** | Coupon stacking |
+| # | Vulnerability |
+|---|---------------|
+| 1 | **SQL Injection** |
+| 2 | **XSS (Reflected)** |
+| 3 | **XSS (Stored)** |
+| 4 | **Path Traversal** |
+| 5 | **SSRF** |
+| 6 | **IDOR** |
+| 7 | **Command Injection** |
+| 8 | **Broken Auth** |
+| 9 | **Sensitive Data Exposure** |
+| 10 | **Business Logic** |
 
 
 ---
